@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper {
+	max-width: 1220px;
+	margin: 0 auto;
+}
+ul, ol {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
